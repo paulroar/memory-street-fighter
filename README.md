@@ -5,7 +5,7 @@ This document details the structure and functionality of the Memory Game, explai
 ## Gameplay
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/16ded74c-bfea-45af-9971-3cdaeee072bb" alt="Street Fighter Memory Game" width="600" />
+  <img src="https://github.com/user-attachments/assets/16ded74c-bfea-45af-9971-3cdaeee072bb" alt="Street Fighter Memory Game" width="850" />
 </p>
 <br>
 
