@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Street Fighter Memory Game</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="page-container">
+        <div class="main-wrapper">
+            <div class="game-container">
+                <h1>Street Fighter Memory</h1>
+                <div class="scoreboard">
+                    <div class="score-item">
+                        <h2>Time</h2>
+                        <span id="time">0s</span>
+                    </div>
+                    <div class="score-item">
+                        <h2>Moves</h2>
+                        <span id="moves">0</span>
+                    </div>
+                </div>
+                <section class="memory-game"></section>
+                <button id="restart-btn">Restart</button>
+            </div>
+
+            <div class="leaderboard-container">
+                <h2>Best Times</h2>
+                <ol id="leaderboard-list">
+                    <!-- Scores will be populated by JavaScript -->
+                </ol>
+            </div>
+        </div>
+
+        <!-- Win Modal -->
+        <div id="win-modal" class="modal-overlay" style="display: none;">
+            <div class="modal-content">
+                <h2>You Win!</h2>
+                <p>Your time: <span id="final-time"></span></p>
+                <p>Total moves: <span id="final-moves"></span></p>
+                <form id="win-form">
+                    <input type="text" id="player-name" placeholder="Enter your name" maxlength="15" required />
+                    <button type="submit">Save Score</button>
+                </form>
+            </div>
+        </div>
+
+        <script src="js/action.js"></script>
+        <footer>
+            <span>Developed by Paulo Prado</span>
+            <div class="social-media">
+                <a href="https://www.linkedin.com/in/paulo-caesar-prado" target="_blank">LinkedIn</a>
+                <a href="https://github.com/paulroar" target="_blank">GitHub</a>
+            </div>
+            <a href="https://www.buymeacoffee.com/pauloprado" target="_blank" class="bmc-button">Buy Me a Coffee</a>
+        </footer>
+    </div>
+</body>
+</html>
