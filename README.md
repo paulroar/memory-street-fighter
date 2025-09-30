@@ -3,8 +3,11 @@
 This document details the structure and functionality of the Memory Game, explaining each part of the code (HTML, CSS, and JavaScript).
 
 ## Gameplay
-
-![Gameplay GIF](https://github.com/user-attachments/assets/16ded74c-bfea-45af-9971-3cdaeee072bb)
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16ded74c-bfea-45af-9971-3cdaeee072bb" alt="Street Fighter Memory Game" width="600" />
+</p>
+<br>
 
 ## Overview
 
