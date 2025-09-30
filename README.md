@@ -4,7 +4,7 @@ This document details the structure and functionality of the Memory Game, explai
 
 ## Gameplay
 
-![Gameplay GIF](https://example.com/gameplay.gif)
+![Gameplay GIF](https://github.com/user-attachments/assets/c908464c-e106-48e1-a17b-482e0ee10f31)
 
 ## Overview
 
