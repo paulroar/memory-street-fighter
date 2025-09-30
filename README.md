@@ -4,9 +4,10 @@ This document details the structure and functionality of the Memory Game, explai
 
 ## Gameplay
 
-![Gameplay GIF](https://github.com/user-attachments/assets/c908464c-e106-48e1-a17b-482e0ee10f31)
+![Gameplay GIF](https://github.com/user-attachments/assets/16ded74c-bfea-45af-9971-3cdaeee072bb)
 
 ## Overview
+
 
 The project is a classic Memory Game with a Street Fighter theme. The player must find pairs of characters by flipping cards. The game has been modernized with new features, such as a timer, move counter, and a leaderboard with the top 10 best times.
 
